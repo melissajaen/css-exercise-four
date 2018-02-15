@@ -19,7 +19,7 @@ body {
 }
 
 .preview.london {
-  width: contain;
+  width: cover;
   background-image: url("../images/london.png");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -29,7 +29,7 @@ body {
 }
 
 .preview.madrid {
-  width: contain;
+  width: cover;
   background-image: url("../images/madrid.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body {
 }
 
 .preview.rome {
-  width: contain;
+  width: cover;
   background-image: url("../images/rome.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
