@@ -8,6 +8,10 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  width: 100%;
+}
+
 .preview.baku {
   width: cover;
   background-image: url("../images/baku.jpg");
