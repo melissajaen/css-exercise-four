@@ -8,14 +8,13 @@ body {
   font-family: sans-serif;
 }
 
-.container {
+container {
   width: 100%;
 }
 
 .preview.baku {
-  width: cover;
   background-image: url("../images/baku.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
   padding: 10px;
@@ -23,9 +22,8 @@ body {
 }
 
 .preview.london {
-  width: cover;
   background-image: url("../images/london.png");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
   padding: 10px;
@@ -33,9 +31,8 @@ body {
 }
 
 .preview.madrid {
-  width: cover;
   background-image: url("../images/madrid.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
   padding: 10px;
@@ -43,9 +40,8 @@ body {
 }
 
 .preview.rome {
-  width: cover;
   background-image: url("../images/rome.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
   padding: 10px;
