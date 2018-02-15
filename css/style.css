@@ -9,7 +9,7 @@ body {
 }
 
 .preview.baku {
-  width: contain;
+  width: cover;
   background-image: url("../images/baku.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
