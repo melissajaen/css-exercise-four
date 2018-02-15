@@ -10,7 +10,6 @@ body {
 
 .preview.baku {
   width: contain;
-  height: 200px;
   background-image: url("../images/baku.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -21,7 +20,6 @@ body {
 
 .preview.london {
   width: contain;
-  height: 200px;
   background-image: url("../images/london.png");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -32,7 +30,6 @@ body {
 
 .preview.madrid {
   width: contain;
-  height: 200px;
   background-image: url("../images/madrid.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
@@ -43,7 +40,6 @@ body {
 
 .preview.rome {
   width: contain;
-  height: 200px;
   background-image: url("../images/rome.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
